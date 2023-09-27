@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 [![mfarhi's 42 stats](https://badge42.vercel.app/api/v2/cl5twx4hw007809mfvxwmzeal/stats?cursusId=21&coalitionId=74)](https://github.com/JaeSeoKim/badge42)
 
+[![MedAymenF's GitHub stats](https://github-readme-stats.vercel.app/api?username=MedAymenF)](https://github.com/anuraghazra/github-readme-stats)
+
 I am @mfarhi on [Kaggle](https://www.kaggle.com/mfarhi) and @ayymen on [Hugging Face](https://huggingface.co/ayymen).
