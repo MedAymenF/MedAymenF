@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [![MedAymenF's GitHub stats](https://github-readme-stats.vercel.app/api?username=MedAymenF)](https://github.com/anuraghazra/github-readme-stats)
 
-I am @mfarhi on [Kaggle](https://www.kaggle.com/mfarhi) and @ayymen on [Hugging Face](https://huggingface.co/ayymen).
+I am also on [Hugging Face](https://huggingface.co/ayymen) and [Kaggle](https://www.kaggle.com/mfarhi).
