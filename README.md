@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 [![MedAymenF's GitHub stats](https://github-readme-stats.vercel.app/api?username=MedAymenF)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+[![mfarhi's 42 stats](https://badge.mediaplus.ma/darkblue/mfarhi?UM6P=off)](https://github.com/oakoudad/badge42)
+
 I am also on [Hugging Face](https://huggingface.co/ayymen) and [Kaggle](https://www.kaggle.com/mfarhi).
